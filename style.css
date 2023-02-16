@@ -309,7 +309,7 @@ ul {
     font-size: 18px;
     color: #101010;
     padding: 15px;
-    text-align: justify;
+    /* text-align: justify; */
 }
 
 .readon {
